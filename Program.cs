@@ -5,3 +5,6 @@ class Program
         Console.WriteLine("this is kavinpraksh ");
     }
 }
+
+
+Console.WriteLine("Good morining");
